@@ -1,24 +1,11 @@
-# README
+# Amazing Authentication Rails Starter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello! We are excited to talk with you more soon :)
 
-Things you may want to cover:
+This is a basic Rails app that satisfies the base case for the Grailed pairing interview:
+> Let's create a web server that can accept HTTP requests on port `3000`.
+> When I make a `GET` request to `/` I see a message that says `"Hello dear world"`.
 
-* Ruby version
+Before you come for your interview, please make sure that you can run this app locally on your machine. We will be building on top of it.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Let us know if you have any questions in the meantime!
