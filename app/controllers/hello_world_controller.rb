@@ -1,4 +1,4 @@
-class HelloWorldController < ActionController::Base
+class HelloWorldController < ApplicationController
   def index
     render plain: "Hello dear world"
   end
